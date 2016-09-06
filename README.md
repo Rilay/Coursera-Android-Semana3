@@ -1,2 +1,2 @@
-# Coursera-Android-Semana3
-Proyecto de Hola mundo en Android
+# Coursera-Android
+Proyecto de Intents
